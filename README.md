@@ -1,2 +1,1 @@
-# Simple-html-site
-Very easy site
+Это сайт для начинающих на html, он показывает базу html
